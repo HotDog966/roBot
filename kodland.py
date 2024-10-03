@@ -33,4 +33,4 @@ async def atik(ctx, *, atik_turu: str):
     else:
         await ctx.send(f"Üzgünüm, {atik_turu} için bilgi bulamadım.")
 
-bot.run('MTI4Mzg2NzM3NTMzODI1ODQ5Ng.Go6PDa.WcpycNJH8HRDXDLDDbWBzHq4zOE5vjeSQIpG0o')
+bot.run('Your TOKEN')
